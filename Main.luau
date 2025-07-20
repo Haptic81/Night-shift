@@ -29,7 +29,7 @@ local UICorner = Instance.new("UICorner", Frame)
 UICorner.CornerRadius = UDim.new(0, 6)
 
 local TitleBtn = Instance.new("TextButton", Frame)
-TitleBtn.Text = "HapticHub"
+TitleBtn.Text = "HapticHub BETA"
 TitleBtn.Font = Enum.Font.GothamMedium
 TitleBtn.TextSize = 14
 TitleBtn.TextColor3 = Color3.new(1, 1, 1)
